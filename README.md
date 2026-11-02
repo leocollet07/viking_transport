@@ -73,7 +73,7 @@ Accessible via le bouton « Admin » de la barre de navigation (réservé aux co
 
 1. Récupérer le projet :
    ```bash
-   git clone https://github.com/leocollet07/viking_transport
+   git clone https://github.com/leocollet07/viking_transport.git
    cd viking_transport
    ```
 2. Renseigner la connexion dans `bdd/env.php` :
